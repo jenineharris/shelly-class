@@ -18,31 +18,35 @@ main:
 
 # submenus left hand side of the website
 lectures:
-  - name: Overview
+  - name: Course prep 
     weight: 1
-  - name: The Basics
+  - name: Course introduction
     weight: 2
-  - name: Tidyverse
+  - name: Descriptive statistics
     weight: 3
-  - name: Reproducibility
+  - name: Bivariate descriptive statistics
     weight: 4
-  - name: Data Viz
+  - name: Graphs and tables for descriptives
     weight: 5
 practice:
-  - name: Overview
+  - name: Course prep 
     weight: 1
-  - name: The Basics
+  - name: Course introduction
     weight: 2
-  - name: Tidyverse
+  - name: Descriptive statistics
     weight: 3
-  - name: Reproducibility
+  - name: Bivariate descriptive statistics
     weight: 4
-  - name: Data Viz
+  - name: Graphs and tables for descriptives
     weight: 5
 assignment:
-  - name: Overview
+  - name: Course prep 
     weight: 1
-  - name: Projects
+  - name: Course introduction
     weight: 2
-  - name: Exercises
+  - name: Descriptive statistics
     weight: 3
+  - name: Bivariate descriptive statistics
+    weight: 4
+  - name: Graphs and tables for descriptives
+    weight: 5
