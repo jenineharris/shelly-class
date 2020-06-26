@@ -1,3 +1,4 @@
+# names of sections for menu on website
 main:
   - name: Syllabus
     url: /syllabus/
@@ -15,6 +16,7 @@ main:
     url: /assignments/
     weight: 5
 
+# submenus left hand side of the website
 lectures:
   - name: Overview
     weight: 1

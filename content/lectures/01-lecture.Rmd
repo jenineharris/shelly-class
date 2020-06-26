@@ -14,6 +14,11 @@ output:
     toc: true
 ---
 
+```{r}
+# 
+```
+
+
 ## Videos
 
 Eventually, a YouTube playlist will go here. 
@@ -28,7 +33,7 @@ source(here::here("R", "slide_tabs.R"))
 
 sections <- tibble::tribble(
   ~name, ~slide, ~active,
-  "About R", "1", TRUE,
+  "About R", "1", TRUE,  #tabs at the bottom of the page for the day
   "RStudio Tour", "rstudio", FALSE,
   "Practice 1", "practice", FALSE
 )
